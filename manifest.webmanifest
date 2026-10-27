@@ -1,0 +1,16 @@
+{
+  "name": "Le Hoang Minh Tai | Fullstack Developer Resume",
+  "short_name": "LMT CV",
+  "description": "CV online của Le Hoang Minh Tai – Fullstack Developer",
+  "start_url": "/CV/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#242DA0",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

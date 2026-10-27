@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lehoangminhtai.github.io/CV/sitemap.xml
